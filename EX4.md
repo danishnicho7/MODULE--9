@@ -1,7 +1,7 @@
 # Ex.No:4  
 # Ex.Name: Right Rotate Module of a Splay Tree  
 
-## Date:09/10/2025
+## Date:09/10/25
 
 ## Aim:  
 To write a C++ program to perform a **Right Rotation in a Splay Tree** and display the tree before and after the rotation using preorder traversal.  
