@@ -1,7 +1,7 @@
 # Ex.No:2  
 # Ex.Name: Red-Black Tree Construction Module  
 
-## Date:09/10/2025
+## Date:09/10/25
 
 ## Aim:  
 To write a C++ program to construct a **Red-Black Tree (RBT)** and display its inorder traversal along with node colors.  
