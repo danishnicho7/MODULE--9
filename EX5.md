@@ -1,7 +1,7 @@
 # Ex.No:5  
 # Ex.Name: Right rotate module of the red black tree
 
-## Date:09/10/2025
+## Date:09/10/25
 
 ## Aim:  
 To Write the Right rotate module of the red black tree in CPP.
